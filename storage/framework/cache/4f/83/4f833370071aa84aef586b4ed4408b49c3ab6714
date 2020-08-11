@@ -1,0 +1,86 @@
+1596453471a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:3553:"title = "Home"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+<h1>Welcome</h1>
+<div class="round">
+<article>
+<img src="{{ 'assets/images/celestine1.jpeg' |theme }}" alt="passport-pic">
+</article>
+		<p>Professor Celestine Oyom Bassey was born in Calabar, Cross River State on 22nd February, 1954 to late Mr. and Mrs. Bassey Edet Inameti-Archibong (Archibong House, Calabar), Cross River State, Nigeria. He is married to Mrs. Stella Bassey with children. </p>
+
+		<p>He is a Member of several Professional Associations which include: - Nigerian Political Science Association, Nigerian Society of International Affairs, Canada Associations of African Studies, International Studies Association, Nigerian Society of International Law, African Strategic and Peace Research Group, and Conflict Resolution Stakeholders Network of Nigeria.</p>
+
+		<p>He has attended various Conferences in Nigeria, Canada, USA etc. and He is an Author and Publisher of so many Books, Articles and Journals.</p>
+
+		<p>Prof did his Secondary Education at St Patrick's College, Ikot Ansa, Calabar. Thereafter he went to the University Of Ibadan for a Diploma in Political Science. He obtained B.A. (Hons) Politics from Lancaster University and thereafter proceeded to Dalhousie University, Canada where he obtained both his M.A. and Ph.D in International Relations and Strategic Studies. He is currently a Lecturer in The University of Calabar, Calabar. The University of Lagos, OAU (IFE), Delsu, Willam Penn (USA)</p> 
+
+		<h3>Honours and Awards</h3>
+		<p>Prof. Celestine Bassey has received so many awards in Nigeria and other countries in the world some of which include: </p>
+		<p><ol>
+			<li>Fulbright Visiting Scholar, William Penn University, US, (2009/2010).</li>
+			<li>Peel Studentship Award, University of Lancaster, England, 1978.</li>
+			<li>Dalhousie University Graduate Fellowship (1980-1981).</li>
+			<li>Denver University Graduate Fellowship (1980 and 1981).</li>
+			<li>Committee of Vice-Chancellor&apos;s Research Grant (Britain, 1981).</li>
+			<li>Killam Scholarship and Fellowship Award (1981-84)(Best Student of the Year Award).</li>
+			<li>Graduate Teaching Assistant (Department of Political Science, Dalhousie University, 1980-1984).</li>
+			<li>Dalhousie University Research Grant (for Field Work in Nigeria, 1982-83).</li>
+			<li>Senate Research Grant, University of Calabar (1987).</li>
+			<li>Senate Research Grant, University of Calabar (1990).</li>
+			<li>McArthur Foundation Research Fellowship (with Professor T. Shaw).</li>
+			<li>Directorate of MAMSER Research Grant (with Atome Kunu) for Programme Evaluation, UNICALCONS (1996).</li>
+			<li>Senate Research Grant, University of Calabar (1996).</li>
+			<li>Coordinator, Strategic Conflict Assessment of Niger Delta Region. Institute for Peace and Conflict Resolution (IPCR), Abuja (Founded by the World Bank, USAID, DFID and FGN).</li>
+			<li>Research Coordinator &quot;Warri Crisis Project&quot;, Academic Associates Peace Work (funded by United States Peace Institute), (1999/2000).</li>
+			<li>AFSTRAG (African Strategic and Peace Research Group) Research Networks:
+				<ul>
+					<li>Peace-keeping as Conflict Management Strategy (Chad and Liberia).</li>
+					<li>Nigerian in International Peace-keeping (funded by the Defence Headquarters).</li>
+					<li>Ethnicity, Violence and Civil Society in Nigeria, Ford Foundation (1999).</li>
+					<li>Child Soldiers Project (Liberia and Sierra Leone), Ford Foundation (2000).</li>
+				</ul>
+		</ol>
+		</p>
+	</div>";s:5:"mtime";i:1596181857;s:6:"markup";s:3492:"<h1>Welcome</h1>
+<div class="round">
+<article>
+<img src="{{ 'assets/images/celestine1.jpeg' |theme }}" alt="passport-pic">
+</article>
+		<p>Professor Celestine Oyom Bassey was born in Calabar, Cross River State on 22nd February, 1954 to late Mr. and Mrs. Bassey Edet Inameti-Archibong (Archibong House, Calabar), Cross River State, Nigeria. He is married to Mrs. Stella Bassey with children. </p>
+
+		<p>He is a Member of several Professional Associations which include: - Nigerian Political Science Association, Nigerian Society of International Affairs, Canada Associations of African Studies, International Studies Association, Nigerian Society of International Law, African Strategic and Peace Research Group, and Conflict Resolution Stakeholders Network of Nigeria.</p>
+
+		<p>He has attended various Conferences in Nigeria, Canada, USA etc. and He is an Author and Publisher of so many Books, Articles and Journals.</p>
+
+		<p>Prof did his Secondary Education at St Patrick's College, Ikot Ansa, Calabar. Thereafter he went to the University Of Ibadan for a Diploma in Political Science. He obtained B.A. (Hons) Politics from Lancaster University and thereafter proceeded to Dalhousie University, Canada where he obtained both his M.A. and Ph.D in International Relations and Strategic Studies. He is currently a Lecturer in The University of Calabar, Calabar. The University of Lagos, OAU (IFE), Delsu, Willam Penn (USA)</p> 
+
+		<h3>Honours and Awards</h3>
+		<p>Prof. Celestine Bassey has received so many awards in Nigeria and other countries in the world some of which include: </p>
+		<p><ol>
+			<li>Fulbright Visiting Scholar, William Penn University, US, (2009/2010).</li>
+			<li>Peel Studentship Award, University of Lancaster, England, 1978.</li>
+			<li>Dalhousie University Graduate Fellowship (1980-1981).</li>
+			<li>Denver University Graduate Fellowship (1980 and 1981).</li>
+			<li>Committee of Vice-Chancellor&apos;s Research Grant (Britain, 1981).</li>
+			<li>Killam Scholarship and Fellowship Award (1981-84)(Best Student of the Year Award).</li>
+			<li>Graduate Teaching Assistant (Department of Political Science, Dalhousie University, 1980-1984).</li>
+			<li>Dalhousie University Research Grant (for Field Work in Nigeria, 1982-83).</li>
+			<li>Senate Research Grant, University of Calabar (1987).</li>
+			<li>Senate Research Grant, University of Calabar (1990).</li>
+			<li>McArthur Foundation Research Fellowship (with Professor T. Shaw).</li>
+			<li>Directorate of MAMSER Research Grant (with Atome Kunu) for Programme Evaluation, UNICALCONS (1996).</li>
+			<li>Senate Research Grant, University of Calabar (1996).</li>
+			<li>Coordinator, Strategic Conflict Assessment of Niger Delta Region. Institute for Peace and Conflict Resolution (IPCR), Abuja (Founded by the World Bank, USAID, DFID and FGN).</li>
+			<li>Research Coordinator &quot;Warri Crisis Project&quot;, Academic Associates Peace Work (funded by United States Peace Institute), (1999/2000).</li>
+			<li>AFSTRAG (African Strategic and Peace Research Group) Research Networks:
+				<ul>
+					<li>Peace-keeping as Conflict Management Strategy (Chad and Liberia).</li>
+					<li>Nigerian in International Peace-keeping (funded by the Defence Headquarters).</li>
+					<li>Ethnicity, Violence and Civil Society in Nigeria, Ford Foundation (1999).</li>
+					<li>Child Soldiers Project (Liberia and Sierra Leone), Ford Foundation (2000).</li>
+				</ul>
+		</ol>
+		</p>
+	</div>";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
